@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
