@@ -1,11 +1,11 @@
 class Solution {
 public:
-    long long sumAndMultiply(int n) {
+    long long sumAndMultiply(long long n) {
         long long res=0;
         long long ans1=0;
         while(n!=0)
         {
-            int digit=n%10;
+            long long digit=n%10;
             if(digit!=0)
             {
                 ans1=ans1*10+digit;
@@ -18,7 +18,7 @@ public:
             ans2=ans2*10+(ans1%10);
             ans1=ans1/10;
         }
-        int sumi=0;
+        long long sumi=0;
         long long temp=ans2;
         while(ans2!=0)
         {
