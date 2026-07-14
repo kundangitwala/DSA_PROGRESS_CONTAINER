@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
+| [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
@@ -21,6 +22,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
