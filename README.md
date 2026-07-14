@@ -17,6 +17,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -30,6 +31,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
 | ------- |
@@ -38,12 +40,14 @@
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
