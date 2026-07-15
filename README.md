@@ -82,6 +82,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
 | [1323-maximum-69-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1323-maximum-69-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -165,4 +166,8 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
