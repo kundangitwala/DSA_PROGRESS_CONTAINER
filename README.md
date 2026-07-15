@@ -24,6 +24,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
 | [1323-maximum-69-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1323-maximum-69-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
