@@ -25,6 +25,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
 | ------- |
