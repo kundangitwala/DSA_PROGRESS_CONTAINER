@@ -14,6 +14,7 @@
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
@@ -154,10 +155,12 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
@@ -169,6 +172,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
