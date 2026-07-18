@@ -28,6 +28,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
 | [1323-maximum-69-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -206,5 +208,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
