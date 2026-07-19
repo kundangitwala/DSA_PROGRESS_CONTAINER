@@ -48,6 +48,7 @@
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
