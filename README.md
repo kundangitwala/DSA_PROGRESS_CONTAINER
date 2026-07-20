@@ -20,6 +20,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
@@ -167,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1920-build-array-from-permutation) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3614-process-string-with-special-operations-ii) |
 ## Enumeration
@@ -193,6 +195,7 @@
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
