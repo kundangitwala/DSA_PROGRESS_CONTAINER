@@ -107,6 +107,7 @@
 | [1816-truncate-sentence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -178,6 +179,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
