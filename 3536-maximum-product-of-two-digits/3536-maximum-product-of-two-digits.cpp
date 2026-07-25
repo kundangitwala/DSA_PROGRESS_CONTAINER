@@ -6,7 +6,7 @@ public:
         while(n!=0)
         {
             int digit=n%10;
-            if(digit>first)
+            if(digit>=first)
             {
                 second=first;
                 first=digit;
