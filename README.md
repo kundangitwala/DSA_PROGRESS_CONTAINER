@@ -28,6 +28,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
 | [1816-truncate-sentence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -216,6 +217,7 @@
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
