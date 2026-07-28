@@ -273,4 +273,8 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
