@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0035-search-insert-position) |
+| [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
