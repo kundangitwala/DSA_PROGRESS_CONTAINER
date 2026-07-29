@@ -91,6 +91,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -123,6 +125,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -141,6 +144,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -283,4 +287,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1683-invalid-tweets) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
