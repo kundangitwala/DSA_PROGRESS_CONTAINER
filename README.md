@@ -282,6 +282,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1148-article-views-i) |
