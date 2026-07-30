@@ -291,6 +291,7 @@
 | [0176-second-highest-salary](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
