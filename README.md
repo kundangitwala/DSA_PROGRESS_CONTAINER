@@ -47,6 +47,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3701-compute-alternating-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
@@ -215,6 +216,7 @@
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1920-build-array-from-permutation) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3614-process-string-with-special-operations-ii) |
+| [3701-compute-alternating-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
 |  |
 | ------- |
