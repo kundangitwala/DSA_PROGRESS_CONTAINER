@@ -16,6 +16,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
+| [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
@@ -204,6 +205,7 @@
 | [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
