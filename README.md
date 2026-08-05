@@ -124,6 +124,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
@@ -200,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
