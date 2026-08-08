@@ -48,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -74,6 +75,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -95,6 +97,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -201,6 +204,7 @@
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -221,6 +225,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
