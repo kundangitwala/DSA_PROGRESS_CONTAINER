@@ -33,6 +33,7 @@
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
@@ -92,6 +93,7 @@
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -203,6 +205,7 @@
 | [0278-first-bad-version](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -238,6 +241,7 @@
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
