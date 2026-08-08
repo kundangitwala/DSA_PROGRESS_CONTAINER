@@ -32,6 +32,7 @@
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
@@ -88,6 +89,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -197,6 +199,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -281,6 +284,7 @@
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -324,6 +328,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
 ## Monotonic Stack
