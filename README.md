@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
@@ -205,6 +206,7 @@
 | [0035-search-insert-position](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -284,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
@@ -401,4 +404,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
