@@ -162,6 +162,7 @@
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0434-number-of-segments-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
