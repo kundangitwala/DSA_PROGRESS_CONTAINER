@@ -94,6 +94,7 @@
 | [0056-merge-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
+| [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
@@ -137,6 +138,7 @@
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -159,6 +161,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
@@ -366,6 +369,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Database
