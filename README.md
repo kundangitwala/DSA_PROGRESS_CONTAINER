@@ -56,6 +56,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -285,6 +286,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -298,6 +300,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3701-compute-alternating-sum) |
