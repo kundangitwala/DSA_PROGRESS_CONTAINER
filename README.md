@@ -32,6 +32,7 @@
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
@@ -112,6 +113,7 @@
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
+| [0922-sort-array-by-parity-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1331-rank-transform-of-an-array) |
@@ -283,6 +285,7 @@
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
+| [0922-sort-array-by-parity-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
