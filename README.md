@@ -24,6 +24,7 @@
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -483,4 +485,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
