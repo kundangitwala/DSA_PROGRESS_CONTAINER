@@ -11,10 +11,6 @@ public:
             value2 *= digit;
             temp=temp/10;
         }
-        if(n % (value1+value2) == 0)
-        {
-            return true;
-        }
-        return false;
+        return n%(value1+value2) == 0 ? true : false;
     }
 };
