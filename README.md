@@ -162,6 +162,7 @@
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0791-custom-sort-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
@@ -194,6 +195,7 @@
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0791-custom-sort-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0791-custom-sort-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1143-longest-common-subsequence) |
@@ -332,6 +334,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
