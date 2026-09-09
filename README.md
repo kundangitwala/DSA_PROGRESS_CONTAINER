@@ -20,6 +20,7 @@
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@
 | [0056-merge-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
@@ -145,6 +147,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
@@ -166,6 +169,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
@@ -283,6 +287,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -518,4 +523,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
