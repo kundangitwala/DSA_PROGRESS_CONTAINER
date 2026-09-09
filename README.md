@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
@@ -301,6 +303,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0151-reverse-words-in-a-string) |
