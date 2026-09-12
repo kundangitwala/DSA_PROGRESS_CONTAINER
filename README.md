@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
@@ -88,6 +89,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
