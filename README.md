@@ -37,6 +37,7 @@
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
+| [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1189-maximum-number-of-balloons) |
@@ -247,6 +249,7 @@
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -538,8 +541,13 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
