@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
@@ -169,6 +170,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
