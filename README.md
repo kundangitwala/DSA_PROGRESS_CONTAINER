@@ -125,6 +125,7 @@
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@
 | [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -208,6 +210,7 @@
 | [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
