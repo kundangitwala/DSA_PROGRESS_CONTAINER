@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
@@ -175,6 +176,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
@@ -427,6 +429,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2685-count-the-number-of-complete-components) |
