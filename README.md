@@ -306,6 +306,7 @@
 | [0053-maximum-subarray](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -464,6 +465,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
