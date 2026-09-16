@@ -468,6 +468,7 @@
 | ------- |
 | [0136-single-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1386-cinema-seat-allocation) |
