@@ -22,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0179-largest-number) |
@@ -462,6 +463,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
