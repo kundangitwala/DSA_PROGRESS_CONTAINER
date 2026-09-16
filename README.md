@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
