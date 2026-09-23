@@ -59,6 +59,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1528-shuffle-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
 | [1816-truncate-sentence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1816-truncate-sentence) |
@@ -200,6 +201,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +305,7 @@
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -328,6 +331,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -388,6 +392,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
