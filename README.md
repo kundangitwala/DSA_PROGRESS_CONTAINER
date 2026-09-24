@@ -86,6 +86,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -281,6 +282,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
