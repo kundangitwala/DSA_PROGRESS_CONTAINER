@@ -43,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [0705-design-hashset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0705-design-hashset) |
+| [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0877-stone-game) |
@@ -360,6 +361,7 @@
 | [0283-move-zeroes](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -429,6 +432,7 @@
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0542-01-matrix) |
+| [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -494,6 +498,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3514-number-of-unique-xor-triplets-ii) |
