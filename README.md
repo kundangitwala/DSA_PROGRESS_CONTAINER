@@ -237,6 +237,7 @@
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -282,6 +283,7 @@
 | [0168-excel-sheet-column-title](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0877-stone-game) |
@@ -385,6 +387,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
