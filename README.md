@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1288-remove-covered-intervals) |
@@ -322,6 +323,7 @@
 | [0278-first-bad-version](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -417,6 +420,7 @@
 | [0220-contains-duplicate-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
