@@ -80,6 +80,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +163,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -335,6 +337,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -388,6 +391,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
