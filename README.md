@@ -63,6 +63,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1765-map-of-highest-peak) |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1534-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3483-unique-3-digit-even-numbers) |
