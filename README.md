@@ -238,6 +238,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0151-reverse-words-in-a-string) |
@@ -445,6 +446,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0064-minimum-path-sum) |
@@ -631,6 +633,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
