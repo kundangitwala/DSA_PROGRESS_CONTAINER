@@ -114,6 +114,7 @@
 | [0455-assign-cookies](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1323-maximum-69-number) |
@@ -255,6 +256,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0791-custom-sort-string](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1143-longest-common-subsequence) |
@@ -402,6 +404,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -636,6 +639,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
