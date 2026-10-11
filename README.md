@@ -81,6 +81,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2551-put-marbles-in-bags) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -428,6 +429,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kundangitwala/DSA_PROGRESS_CONTAINER/tree/master/3483-unique-3-digit-even-numbers) |
